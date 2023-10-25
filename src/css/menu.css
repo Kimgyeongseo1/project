@@ -1,0 +1,54 @@
+/* 모든 리스트 불릿표시 제거, 가로뱡향 정렬 */
+header ul li {
+  float: left;
+}
+/* 메인메뉴 */
+ul#mainMenu {
+  position: absolute;
+  top: 200px;
+  left: 90px;
+  border: 0px solid black;
+}
+/* 메인메뉴 리스트     */
+ul#mainMenu li {
+  margin: 5px;
+}
+/* 메인메뉴 첫번째 리스트 */
+ul#mainMenu li.Men {
+  font-weight: bolder;
+}
+/* 메인메뉴 텍스트  */
+ul#mainMenu li a {
+  display: block;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  font-size: 16px;
+  margin-left: 7px;
+}
+/* 메인메뉴 리스트에 호버했을때 동작 */
+ul#mainMenu li a:hover {
+  text-decoration: underline;
+}
+/* 보조메뉴 */
+ul#infoMenu {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+}
+/* 보조메뉴 리스트 */
+ul#infoMenu li {
+  margin: 5px;
+  border: 5px solid black;
+}
+/* 보조메뉴 텍스트 */
+ul#infoMenu li a {
+  display: block;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}

@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "FREN 크롭트 플레어드 스트레치 진",
+      "price": 129000,
+      "productImg": "src/images/women/bottoms/women_b1.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b1-1.jpg",
+        "src/images/women/bottoms/women_b1-2.jpg",
+        "src/images/women/bottoms/women_b1-3.jpg"
+      ],
+      "id": 37
+    },
+    {
+      "title": "WILLOW 루즈 진",
+      "price": 169000,
+      "productImg": "src/images/women/bottoms/women_b2.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b2-1.jpg",
+        "src/images/women/bottoms/women_b2-2.jpg",
+        "src/images/women/bottoms/women_b2-3.jpg"
+      ],
+      "id": 38
+    },
+    {
+      "title": "JADE 크롭트 슬림 스트레치 진",
+      "price": 129000,
+      "productImg": "src/images/women/bottoms/women_b3.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b3-1.jpg",
+        "src/images/women/bottoms/women_b3-2.jpg",
+        "src/images/women/bottoms/women_b3-3.jpg"
+      ],
+      "id": 39
+    },
+    {
+      "title": "ROSE 크롭트 스트레이트 스트레치 진",
+      "price": 129000,
+      "productImg": "src/images/women/bottoms/women_b4.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b4-1.jpg",
+        "src/images/women/bottoms/women_b4-2.jpg",
+        "src/images/women/bottoms/women_b4-3.jpg"
+      ],
+      "id": 40
+    },
+    {
+      "title": "CLOUD 로우 루즈 진",
+      "price": 169000,
+      "productImg": "src/images/women/bottoms/women_b5.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b5-1.jpg",
+        "src/images/women/bottoms/women_b5-2.jpg",
+        "src/images/women/bottoms/women_b5-3.jpg"
+      ],
+      "id": 41
+    },
+    {
+      "title": "WAVE 슬림 플레어드 스트레치 진",
+      "price": 129000,
+      "productImg": "src/images/women/bottoms/women_b6.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b6-1.jpg",
+        "src/images/women/bottoms/women_b6-2.jpg",
+        "src/images/women/bottoms/women_b6-3.jpg"
+      ],
+      "id": 42
+    },
+    {
+      "title": "CLOUD 로우 루즈 진",
+      "price": 169000,
+      "productImg": "src/images/women/bottoms/women_b7.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b7-1.jpg",
+        "src/images/women/bottoms/women_b7-2.jpg",
+        "src/images/women/bottoms/women_b7-3.jpg"
+      ],
+      "id": 43
+    },
+    {
+      "title": "ROSE 크롭트 스트레이트 스트레치 진",
+      "price": 129000,
+      "productImg": "src/images/women/bottoms/women_b8.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b8-1.jpg",
+        "src/images/women/bottoms/women_b8-2.jpg",
+        "src/images/women/bottoms/women_b8-3.jpg"
+      ],
+      "id": 44
+    },
+    {
+      "title": "CLOUD 로우 루즈 진",
+      "price": 169000,
+      "productImg": "src/images/women/bottoms/women_b9.jpg",
+      "thumbnails": [
+        "src/images/women/bottoms/women_b9-1.jpg",
+        "src/images/women/bottoms/women_b9-2.jpg",
+        "src/images/women/bottoms/women_b9-3.jpg"
+      ],
+      "id": 45
+    }
+  ]
+}

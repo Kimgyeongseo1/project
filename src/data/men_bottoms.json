@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "벌룬핏 팬츠",
+      "price": 89000,
+      "productImg": "src/images/men/bottoms/men_bottoms_1.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_1-1.jpg",
+        "src/images/men/bottoms/men_bottoms_1-2.jpg",
+        "src/images/men/bottoms/men_bottoms_1-3.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "title": "캐롯핏 코듀로이 팬츠",
+      "price": 59000,
+      "productImg": "src/images/men/bottoms/men_bottoms_2.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_2-1.jpg",
+        "src/images/men/bottoms/men_bottoms_2-2.jpg",
+        "src/images/men/bottoms/men_bottoms_2-3.jpg"
+      ],
+      "id": 11
+    },
+    {
+      "title": "콘트라스트 스티치 팬츠",
+      "price": 89000,
+      "productImg": "src/images/men/bottoms/men_bottoms_3.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_3-1.jpg",
+        "src/images/men/bottoms/men_bottoms_3-2.jpg",
+        "src/images/men/bottoms/men_bottoms_3-3.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "title": "유틸리티 카고 팬츠",
+      "price": 89000,
+      "productImg": "src/images/men/bottoms/men_bottoms_4.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_4-1.jpg",
+        "src/images/men/bottoms/men_bottoms_4-2.jpg",
+        "src/images/men/bottoms/men_bottoms_4-3.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "title": "벌룬핏 팬츠",
+      "price": 89000,
+      "productImg": "src/images/men/bottoms/men_bottoms_5.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_5-1.jpg",
+        "src/images/men/bottoms/men_bottoms_5-2.jpg",
+        "src/images/men/bottoms/men_bottoms_5-3.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "title": "JEANS 벨트 플리츠",
+      "price": 89000,
+      "productImg": "src/images/men/bottoms/men_bottoms_6.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_6-1.jpg",
+        "src/images/men/bottoms/men_bottoms_6-2.jpg",
+        "src/images/men/bottoms/men_bottoms_6-3.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "title": "울 블렌드 와이드핏 팬츠",
+      "price": 109000,
+      "productImg": "src/images/men/bottoms/men_bottoms_7.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_7-1.jpg",
+        "src/images/men/bottoms/men_bottoms_7-2.jpg",
+        "src/images/men/bottoms/men_bottoms_7-3.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "title": "멜란지 스트럭처 수트 팬츠",
+      "price": 89900,
+      "productImg": "src/images/men/bottoms/men_bottoms_8.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_8-1.jpg",
+        "src/images/men/bottoms/men_bottoms_8-2.jpg",
+        "src/images/men/bottoms/men_bottoms_8-3.jpg"
+      ],
+      "id": 17
+    },
+    {
+      "title": "코튼 턱 디테일 팬츠",
+      "price": 89900,
+      "productImg": "src/images/men/bottoms/men_bottoms_9.jpg",
+      "thumbnails": [
+        "src/images/men/bottoms/men_bottoms_9-1.jpg",
+        "src/images/men/bottoms/men_bottoms_9-2.jpg",
+        "src/images/men/bottoms/men_bottoms_9-3.jpg"
+      ],
+      "id": 18
+    }
+  ]
+}

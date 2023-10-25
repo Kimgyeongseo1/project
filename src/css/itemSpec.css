@@ -1,0 +1,174 @@
+/*상세보기 영역*/
+div#itemSpecArea {
+  border: 0px solid red;
+  width: 80%;
+  height:800px;
+  position: relative;
+  margin: 0 auto 0 auto;
+  top: 200px;
+}
+div#itemSpecArea:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+/* div.itemSpec {
+  border: 2px solid black;
+} */
+/*상품 이미제 여역*/
+div.imgArea {
+  border: 0px solid purple;
+  width: 55%;
+  height: 80%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+div.imgArea img#mainImage {
+  border: 0px solid black;
+  height: 600px;
+  width: 430px;
+  position: absolute;
+  left: 20%;
+  top: 9%;
+}
+div.imgArea div.thumbnailEdge{
+  border: 0px solid black;
+  height: 90px;
+  width: 90px;
+  position: absolute;
+  overflow: hidden;
+}
+div.imgArea img.thumbnail {
+  height: 120px;
+  width: 90px;
+  position: absolute;
+  top: -10px;
+}
+div.imgArea img.thumbnail:hover{
+filter: opacity(60%);
+}  
+div.imgArea div.thumb1 {
+  left: 5%;
+  top: 20%;
+}
+div.imgArea div.thumb2 {
+  left: 5%;
+  top: 35%;
+}
+div.imgArea div.thumb3 {
+  left: 5%;
+  top: 50%;
+}
+div.imgArea div.thumb4 {
+  left: 5%;
+  top: 65%;
+}
+/*상품 정보*/
+div.itemDetail {
+  border: 0px solid orange;
+  width: 45%;
+  height: 80%;
+  position: absolute;
+  top: 0;
+  left: 55%;
+}
+div.itemDetail div {
+  margin-bottom: 15px;
+}
+div.itemDetail div.itemTitleArea {
+  border: 0px solid pink;
+  width: 100%;
+  height: 50px;
+  margin-top: 9%;
+}
+
+div.itemDetail div.itemPriceArea {
+  width: 100%;
+  height: 50px;
+  border: 0px solid green;
+}
+/*사이즈 버튼*/
+div.itemDetail div.sizeBtnArea {
+  width: 50%;
+  height: 50px;
+  border: 0px solid blue;
+  display: flex;
+  justify-content: space-between;
+}
+div.itemDetail div.sizeBtnArea button {
+  height: 50px;
+  width: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: white;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+}
+div.itemDetail div.sizeBtnArea button:hover {
+  background-color: lightgray;
+}
+
+div.itemDetail div.sizeBtnArea button.selectedButton {
+  border: 2px solid black;
+}
+
+/*수량 조정 버튼*/
+div.itemDetail div.quantityArea {
+  width: 100%;
+  height: 45px;
+  border: 0px solid yellow;
+}
+div.itemDetail div.quantityArea button {
+  height: 30px;
+  width: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: lightgray;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+/*상세 페이지의 결제금액*/
+div.itemDetail div.specPage_totalPriceArea {
+  width: 100%;
+  height: 40px;
+  border: 0px solid darkcyan;
+}
+div.itemDetail div.specPage_totalPriceArea .specPage_totalTxt {
+  display: inline-block;
+}
+#specPage_totalPrice {
+  display: inline-block;
+  padding-left: 60px;
+}
+
+/*장바구니 넣기*/
+div.itemDetail button.addToCart {
+  height: 40px;
+  width: 150px;
+  font-size: 20px;
+  background-color: white;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+}
+div.itemDetail button.addToCart:hover {
+  background-color: lightgray;
+}
+/*장바구니로 이동하기*/
+div.itemDetail button.viewCart {
+  height: 40px;
+  width: 150px;
+  font-size: 20px;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  background-color: lightgrey;
+  color: white;
+}
+div.itemDetail button.viewCart:hover {
+  background-color: black;
+  color: white;
+}
+
+/*상품 정보 종료*/
+/*상세보기 영역 종료*/

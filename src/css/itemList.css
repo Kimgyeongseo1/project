@@ -1,0 +1,103 @@
+/*헤더영역*/
+header ul#mainMenu a.nav-Menu.selected {
+  font-weight: bold;
+}
+div#itemListArea {
+  border: 0px solid red;
+  height: 2000px;
+  width: 90%;
+  position: relative;
+  top: 380px;
+  margin-left: 15%;
+}
+
+div.item {
+  border: 0px solid black;
+  height: 450px;
+  width: 430px;
+  margin-top: 0px;
+  float: left;
+}
+div.itemImage {
+  border: 0px solid green;
+  height: 400px;
+  width: 400px;
+  margin-left: 25px;
+  overflow: hidden;
+}
+div.itemImage img.listPage_Image {
+  height: auto;
+  width: 100%;
+  object-fit: fill;
+  object-position: initial;
+}
+div.itemImage img.listPage_Image:hover{
+  filter: opacity(60%);
+}
+
+div.listPage_detail {
+  border: 0px solid orange;
+  height: 50px;
+  width: 400px;
+  margin-left: 25px;
+  text-align: center;
+}
+div.listPage_detail h3 {
+  color: darkslategray;
+}
+div.listPage_detail h4 {
+  color: black;
+}
+div#subMenuArea {
+  border: 0px solid green;
+  width: 350px;
+  height: 150px;
+  position: absolute;
+  top: 210px;
+  margin-left: 40%;
+}
+div#subMenuArea div.subMenuImageArea {
+  border: 0px solid orange;
+  height: 100px;
+  width: 100px;
+  margin-left: 35%;
+  overflow: hidden;
+  margin-top: 5px;
+}
+div#subMenuArea div.subMenuImageArea img {
+  height: 150px;
+  width: 100px;
+}
+div#subMenuArea div.subMenu {
+  border: 0px solid blueviolet;
+}
+div#subMenuArea div.subMenu ul {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border: 0px solid greenyellow;
+  cursor: pointer;
+}
+div#subMenuArea div.subMenu ul li {
+  border: 0px solid red;
+  margin-top: 5px;
+  cursor: pointer;
+}
+div#subMenuArea div.subMenu ul li a {
+  padding: 6px 10px 8px 10px;
+  font-size: 20px;
+  color: darkgrey;
+  border: 0px solid orange;
+}
+div#subMenuArea div.subMenu ul li a:hover {
+  color: black;
+}
+div#subMenuArea div.subMenu ul li a.selected {
+  color: black;
+}
+div#subMenuArea div.subMenu ul.submenu{
+  display: none;
+} 
+div#subMenuArea div.subMenu ul.submenu.active{
+  display:flex;
+} 

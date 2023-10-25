@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "울 스카프",
+      "price": 119000,
+      "productImg": "src/images/women/acc/women_acc1.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc1-1.jpg",
+        "src/images/women/acc/women_acc1-2.jpg",
+        "src/images/women/acc/women_acc1-3.jpg"
+      ],
+      "id": 46
+    },
+    {
+      "title": "레더 크로스바디 백",
+      "price": 279000,
+      "productImg": "src/images/women/acc/women_acc2.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc2-1.jpg",
+        "src/images/women/acc/women_acc2-2.jpg",
+        "src/images/women/acc/women_acc2-3.jpg"
+      ],
+      "id": 47
+    },
+    {
+      "title": "커브드 스웨이드 백",
+      "price": 279000,
+      "productImg": "src/images/women/acc/women_acc3.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc3-1.jpg",
+        "src/images/women/acc/women_acc3-2.jpg",
+        "src/images/women/acc/women_acc3-3.jpg"
+      ],
+      "id": 48
+    },
+    {
+      "title": "트라이앵글 울 스카프",
+      "price": 119000,
+      "productImg": "src/images/women/acc/women_acc4.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc4-1.jpg",
+        "src/images/women/acc/women_acc4-2.jpg",
+        "src/images/women/acc/women_acc4-3.jpg"
+      ],
+      "id": 49
+    },
+    {
+      "title": "하프 문 레더 백",
+      "price": 229000,
+      "productImg": "src/images/women/acc/women_acc5.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc5-1.jpg",
+        "src/images/women/acc/women_acc5-2.jpg",
+        "src/images/women/acc/women_acc5-3.jpg"
+      ],
+      "id": 50
+    },
+    {
+      "title": "미드 사이즈 커브드 숄더 백",
+      "price": 219000,
+      "productImg": "src/images/women/acc/women_acc6.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc6-1.jpg",
+        "src/images/women/acc/women_acc6-2.jpg",
+        "src/images/women/acc/women_acc6-3.jpg"
+      ],
+      "id": 51
+    },
+    {
+      "title": "토트 백",
+      "price": 429000,
+      "productImg": "src/images/women/acc/women_acc7.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc7-1.jpg",
+        "src/images/women/acc/women_acc7-2.jpg",
+        "src/images/women/acc/women_acc7-3.jpg"
+      ],
+      "id": 52
+    },
+    {
+      "title": "레더 토트 백",
+      "price": 429000,
+      "productImg": "src/images/women/acc/women_acc8.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc8-1.jpg",
+        "src/images/women/acc/women_acc8-2.jpg",
+        "src/images/women/acc/women_acc8-3.jpg"
+      ],
+      "id": 53
+    },
+    {
+      "title": "레더 트림 스트로우 백",
+      "price": 150000,
+      "productImg": "src/images/women/acc/women_acc9.jpg",
+      "thumbnails": [
+        "src/images/women/acc/women_acc9-1.jpg",
+        "src/images/women/acc/women_acc9-2.jpg",
+        "src/images/women/acc/women_acc9-3.jpg"
+      ],
+      "id": 54
+    }
+  ]
+}

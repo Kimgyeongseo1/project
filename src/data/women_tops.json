@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "소프트 봄버 재킷",
+      "price": 89000,
+      "productImg": "src/images/women/tops/women_tops_1.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_1-1.jpg",
+        "src/images/women/tops/women_tops_1-2.jpg",
+        "src/images/women/tops/women_tops_1-3.jpg"
+      ],
+      "id": 28
+    },
+    {
+      "title": "빈티지 페이크 레더 봄버 재킷",
+      "price": 109000,
+      "productImg": "src/images/women/tops/women_tops_2.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_2-1.jpg",
+        "src/images/women/tops/women_tops_2-2.jpg",
+        "src/images/women/tops/women_tops_2-3.jpg"
+      ],
+      "id": 29
+    },
+    {
+      "title": "하트 패딩 점퍼",
+      "price": 59000,
+      "productImg": "src/images/women/tops/women_tops_3.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_3-1.jpg",
+        "src/images/women/tops/women_tops_3-2.jpg",
+        "src/images/women/tops/women_tops_2-3.jpg"
+      ],
+      "id": 30
+    },
+    {
+      "title": "포켓 콤비 니트 베스트",
+      "price": 79000,
+      "productImg": "src/images/women/tops/women_tops_4.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_4-1.jpg",
+        "src/images/women/tops/women_tops_4-2.jpg",
+        "src/images/women/tops/women_tops_4-3.jpg"
+      ],
+      "id": 31
+    },
+    {
+      "title": "베이직 니트 가디건",
+      "price": 79000,
+      "productImg": "src/images/women/tops/women_tops_5.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_5-1.jpg",
+        "src/images/women/tops/women_tops_5-2.jpg",
+        "src/images/women/tops/women_tops_5-3.jpg"
+      ],
+      "id": 32
+    },
+    {
+      "title": "소프트 니트 크롭 스웨터",
+      "price": 59000,
+      "productImg": "src/images/women/tops/women_tops_6.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_6-1.jpg",
+        "src/images/women/tops/women_tops_6-2.jpg",
+        "src/images/women/tops/women_tops_6-3.jpg"
+      ],
+      "id": 33
+    },
+    {
+      "title": "베스트 프린트 원피스",
+      "price": 79000,
+      "productImg": "src/images/women/tops/women_tops_7.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_7-1.jpg",
+        "src/images/women/tops/women_tops_7-2.jpg",
+        "src/images/women/tops/women_tops_7-3.jpg"
+      ],
+      "id": 34
+    },
+    {
+      "title": "와이드 벨트 니트 미디 원피스",
+      "price": 89000,
+      "productImg": "src/images/women/tops/women_tops_8.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_8-1.jpg",
+        "src/images/women/tops/women_tops_8-2.jpg",
+        "src/images/women/tops/women_tops_8-3.jpg"
+      ],
+      "id": 35
+    },
+    {
+      "title": "글리터 미니 점프수트",
+      "price": 89000,
+      "productImg": "src/images/women/tops/women_tops_9.jpg",
+      "thumbnails": [
+        "src/images/women/tops/women_tops_9-1.jpg",
+        "src/images/women/tops/women_tops_9-2.jpg",
+        "src/images/women/tops/women_tops_9-3.jpg"
+      ],
+      "id": 36
+    }
+  ]
+}

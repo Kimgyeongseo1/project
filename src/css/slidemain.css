@@ -1,0 +1,112 @@
+*{margin: 0;padding: 0;}
+html{
+    overflow: hidden;
+}
+
+html,body {
+    border: 0px solid black;
+    display: block;
+    width: 100%;
+    height: 100%;
+    
+  
+}
+/* 각 div section 영역 */
+.section1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+   
+    
+}
+.section2 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+   
+}
+.section3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+.section4 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+
+/* #section1{background-color:red;}
+#section2{background-color: blue}
+#section3{background-color: yellow} 
+ #section4{background-color: black}  */
+/* 이전버튼 영역 */
+.prev1,
+.prev2,
+.prev3
+{ 
+    display: none;
+  
+    width: 50px;height: 50px;
+    left: 20px;top:50%;
+    position: absolute;} 
+        
+/* 다음버튼 영역 */
+.next1,
+.next2,
+.next3
+{  
+    width: 50px;height: 50px;
+    right:20px;top:50%;
+    position: absolute;}
+
+  
+/* 슬라이드 전체 영역 */
+div#slideWrap1, 
+div#slideWrap2,
+div#slideWrap3 {  width: 100%; height: 100%;} 
+/* 슬라이드메인 css 추가 */
+
+
+
+ 
+  
+        
+
+/* 패럴랙스 사용을 위해 백그라운드 이미지 사용 */
+div#slideWrap1 p#slide1{background-image: url("/src/images/main_slide/mainSlide_men_1.jpeg");}
+div#slideWrap2 p#slide2{ background-image: url("/src/images/main_slide/mainSlide_men_2.jpeg");}
+div#slideWrap3 p#slide3{ background-image: url("/src/images/main_slide/mainSlide_men_3.jpeg");}
+  
+    
+ 
+             
+      
+/* 슬라이드 이미지 영역 */
+div#slideWrap1 p#slide1 img,
+div#slideWrap2 p#slide2 img,
+div#slideWrap3 p#slide3 img
+{float: right; width: 25%; height: 100%}  
+     
+          
+        
+     
+/* 슬라이드 영역 */
+div#slideWrap1 p#slide1,
+div#slideWrap2 p#slide2, 
+div#slideWrap3 p#slide3 
+ { position: absolute;
+    left: 0%;top: 0;
+    width: 400%; height: 100%;
+    transition: all 0.5s;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position:left;
+    border: 0px solid red} 
+        
+        
+        
+       

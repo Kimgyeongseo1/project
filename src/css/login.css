@@ -1,0 +1,50 @@
+#ex1 h3 {
+  font-family: "D2Coding";
+  text-align: center;
+  padding-bottom: 20px;
+}
+#ex1 .member_login_input1 {
+  padding-top: 10px;
+}
+@font-face {
+  font-family: "D2Coding";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+p {
+  font-family: "D2Coding";
+  float: left;
+  color: gray;
+}
+hr {
+  border: 1px solid lightgray;
+}
+.member_login_input1,
+.member_login_input2 {
+  text-align: center;
+}
+.member_login_btn {
+  padding-top: 20px;
+  text-align: center;
+}
+.btn-login {
+  background-color: tan;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+}
+.btn-signUp {
+  background-color: tan;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+}
+.find_password {
+  padding-top: 10px;
+  text-align: center;
+}
+.login_api_kakao,
+.login_api_google {
+  padding-top: 10px;
+  text-align: center;
+}

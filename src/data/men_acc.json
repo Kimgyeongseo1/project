@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "플랩 크로스백",
+      "price": 55900,
+      "productImg": "src/images/men/acc/men_acc_1.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_1-1.jpg",
+        "src/images/men/acc/men_acc_1-2.jpg",
+        "src/images/men/acc/men_acc_1-3.jpg"
+      ],
+      "id": 19
+    },
+    {
+      "title": "레더 쇼퍼백 LIMITED EDITION ",
+      "price": 279000,
+      "productImg": "src/images/men/acc/men_acc_2.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_2-1.jpg",
+        "src/images/men/acc/men_acc_2-2.jpg",
+        "src/images/men/acc/men_acc_2-3.jpg"
+      ],
+      "id": 20
+    },
+    {
+      "title": "레더 숄더백 X MAISON SPECIAL",
+      "price": 259000,
+      "productImg": "src/images/men/acc/men_acc_3.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_3-1.jpg",
+        "src/images/men/acc/men_acc_3-2.jpg",
+        "src/images/men/acc/men_acc_3-3.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "title": "엠보스드 백팩",
+      "price": 89000,
+      "productImg": "src/images/men/acc/men_acc_4.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_4-1.jpg",
+        "src/images/men/acc/men_acc_4-2.jpg",
+        "src/images/men/acc/men_acc_4-3.jpg"
+      ],
+      "id": 22
+    },
+    {
+      "title": "다용도 브리프케이스",
+      "price": 129000,
+      "productImg": "src/images/men/acc/men_acc_5.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_5-1.jpg",
+        "src/images/men/acc/men_acc_5-2.jpg",
+        "src/images/men/acc/men_acc_5-3.jpg"
+      ],
+      "id": 23
+    },
+    {
+      "title": "캐시미어 블렌드 머플러 ",
+      "price": 279000,
+      "productImg": "src/images/men/acc/men_acc_6.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_6-1.jpg",
+        "src/images/men/acc/men_acc_6-2.jpg",
+        "src/images/men/acc/men_acc_6-3.jpg"
+      ],
+      "id": 24
+    },
+    {
+      "title": "숏 니트 비니",
+      "price": 29000,
+      "productImg": "src/images/men/acc/men_acc_7.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_7-1.jpg",
+        "src/images/men/acc/men_acc_7-2.jpg",
+        "src/images/men/acc/men_acc_7-3.jpg"
+      ],
+      "id": 25
+    },
+    {
+      "title": "직사각 선글라스",
+      "price": 89900,
+      "productImg": "src/images/men/acc/men_acc_8.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_8-1.jpg",
+        "src/images/men/acc/men_acc_8-2.jpg",
+        "src/images/men/acc/men_acc_8-3.jpg"
+      ],
+      "id": 26
+    },
+    {
+      "title": "하이테크 버킷햇",
+      "price": 39900,
+      "productImg": "src/images/men/acc/men_acc_9.jpg",
+      "thumbnails": [
+        "src/images/men/acc/men_acc_9-1.jpg",
+        "src/images/men/acc/men_acc_9-2.jpg",
+        "src/images/men/acc/men_acc_9-3.jpg"
+      ],
+      "id": 27
+    }
+  ]
+}

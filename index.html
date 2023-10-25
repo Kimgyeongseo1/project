@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAZA</title>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.js"
+      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css"
+    />
+    <script src="./src/js/html.js"></script>
+
+    <script src="./src/js/slide.js"></script>
+    <script src="https://kit.fontawesome.com/4801a5905e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./src/css/header.css" />
+    <link rel="stylesheet" href="./src/css/menu.css" />
+    <link rel="stylesheet" href="./src/css/slidemain.css" />
+    <link rel="stylesheet" href="./src/css/base.css" />
+    <link rel="stylesheet" href="./src/css/login.css" />
+    <link rel="stylesheet" href="./src/css/footer.css" />
+  </head>
+  <body>
+    <div class="section1" id="section1">
+      <header>
+        <!-- 홈페이지 로고 -->
+        <a href="index.html"><h2>
+          <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+          width="300.000000pt" height="150.000000pt" viewBox="0 0 1720.000000 816.000000"
+          preserveAspectRatio="xMidYMid meet">
+         
+         <g transform="translate(0.000000,816.000000) scale(0.100000,-0.100000)"
+         fill="black" stroke="none">
+         <path d="M13261 6672 c-5 -10 -390 -960 -855 -2111 -465 -1150 -867 -2133
+         -893 -2184 l-48 -92 -1468 -3 c-1084 -1 -1466 1 -1461 9 6 10 3256 3951 3483
+         4224 l75 90 -1984 3 c-1091 1 -1986 0 -1988 -3 -6 -5 -31 -546 -32 -673 l0
+         -73 82 3 82 3 21 111 c25 127 65 224 107 259 39 33 112 53 233 65 103 10 2385
+         14 2385 5 0 -7 -3237 -3942 -3249 -3949 -8 -5 -115 208 -130 261 -10 34 -1637
+         3986 -1658 4026 -14 27 -15 28 -95 25 l-81 -3 -621 -1537 c-342 -846 -624
+         -1538 -628 -1538 -5 0 -8 9 -8 19 0 35 -41 155 -83 240 -111 229 -383 493
+         -632 615 -148 72 -397 165 -860 321 -581 195 -766 379 -767 760 -1 222 69 398
+         221 559 162 170 380 261 662 273 290 13 515 -46 738 -194 111 -74 328 -289
+         333 -330 3 -32 11 -33 130 -13 l67 12 -18 46 c-9 26 -68 178 -130 338 l-113
+         290 -51 12 c-566 128 -870 149 -1185 81 -528 -114 -920 -512 -1006 -1022 -20
+         -113 -22 -319 -6 -427 25 -162 108 -368 211 -525 61 -93 209 -245 291 -298
+         142 -93 409 -208 768 -332 222 -76 496 -183 585 -227 160 -80 333 -228 400
+         -343 133 -226 117 -544 -38 -777 -213 -321 -564 -452 -1143 -427 -177 8 -314
+         30 -444 71 -413 131 -575 390 -606 971 l-6 118 -87 -3 -86 -3 -3 -717 -2 -718
+         690 0 c621 0 710 2 888 20 175 18 333 41 400 57 20 5 22 1 22 -31 l0 -36 405
+         0 405 0 0 85 0 85 -32 0 c-58 0 -110 13 -115 28 -10 26 24 114 385 1000 l356
+         872 625 0 626 0 309 -748 c170 -411 333 -804 363 -874 29 -70 59 -152 65 -183
+         14 -72 3 -85 -81 -92 l-61 -6 0 -85 0 -85 908 6 c499 4 1642 7 2540 7 l1632 0
+         0 368 1 367 273 670 274 670 628 0 627 0 324 -785 c179 -432 340 -820 359
+         -862 41 -93 64 -185 53 -214 -8 -22 -45 -34 -105 -34 l-34 0 0 -85 0 -85 600
+         0 600 0 0 84 0 83 -80 7 c-98 9 -183 48 -236 109 -35 40 -176 315 -189 368 -3
+         14 -379 930 -834 2035 l-828 2009 -81 3 c-71 2 -82 0 -91 -16z m172 -1717
+         l255 -630 -516 -3 c-283 -1 -516 -1 -518 1 -2 1 113 289 254 639 141 350 260
+         634 264 630 3 -4 121 -290 261 -637z m-7479 -14 c141 -349 255 -636 253 -638
+         -2 -2 -235 -2 -518 -1 l-515 3 253 625 c139 343 255 631 258 639 3 7 7 12 9
+         10 2 -2 119 -289 260 -638z"/>
+         </g>
+         </svg>
+        </h2>
+        </a>
+        <!-- 메인메뉴 -->
+        <ul id="mainMenu">
+          <li class="Men"><a href="itemList.html?navCategory=Men&category=men_tops">Men</a></li>
+          <li class="Women"><a href="itemList.html?navCategory=Women&category=women_tops">Women</a></li>
+          <li class="Kids"><a href="itemList.html?navCategory=Kids&category=kids_tops">Kids</a></li>
+          <li class="Codi"><a href="#">Codi</a></li>
+        </ul>
+        <!-- 보조메뉴 -->
+        <ul id="infoMenu">
+          <li><a id="custom-login-btn" href="#ex1" rel="modal:open">로그인</a></li>
+          <li><a href="#">장바구니</a></li>
+        </ul>
+        <!--로그인 모달창-->
+        <div id="ex1" class="modal">
+          <h3>로그인</h3>
+          <hr />
+          <div class="member_login_input1">
+            <p>ID</p>
+            <input type="text" name="username" placeholder="아이디" />
+          </div>
+
+          <div class="member_login_input2">
+            <p>PW</p>
+            <input type="password" name="password" placeholder="비밀번호" />
+          </div>
+
+          <div class="member_login_btn">
+            <button class="btn-login">로그인</button>
+
+            <button class="btn-signUp">회원가입</button>
+          </div>
+          <div class="find_password">
+            <a href="/forgot-password">아이디 또는 비밀번호를 잊으셨나요?</a>
+          </div>
+
+          <div class="login_api_kakao">
+            <a
+              href="https://kauth.kakao.com/oauth/authorize?client_id=d860d38c992ca8bf5f07dcc3fd5122b9&redirect_uri=http://localhost:9090/member/auth/kakao/callback&response_type=code"
+              ><img src="./src/images/login/kakao_login.jpg"
+            /></a>
+          </div>
+
+          <div class="login_api_google">
+            <a
+              href="https://accounts.google.com/signup/v2/createaccount?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&theme=glif&flowName=GlifWebSignIn&flowEntry=SignUp"
+              ><img src="./src/images/login/google_btn.jpg"
+            /></a>
+          </div>
+          <a href="#" rel="modal:close">닫기</a>
+        </div>
+      </header>
+      <div id="slideWrap1">
+        <p id="slide1">
+          <!-- 수직방향 첫번째 슬라이드  -->
+          <img src="./src/images/main_slide/mainSlide_collection_1.jpg" alt="" /> 
+          <img src="./src/images/main_slide/mainSlide_kids_1.jpg" alt="" /> 
+          <img src="./src/images/main_slide/mainSlide_women_1.jpeg" alt=""/>
+        </p>
+        <div class="prev1"><i  class="fa-solid fa-angle-left"></i></i></div>
+        <div class="next1"><i class="fa-solid fa-chevron-right"></i></i></div>
+      </div>
+    </div>
+     
+ 
+    <div class="section2" id="section2">
+      <div id="slideWrap2">
+        <p id="slide2">
+          <!--수직방향 두번째 슬라이드-->
+          <img src="./src/images/main_slide/mainSlide_collection_2.png" alt="" />
+          <img src="./src/images/main_slide/mainSlide_kids_2.jpg" alt="" />
+          <img src="./src/images/main_slide/mainSlide_women_2.jpg" alt="" />
+        </p>
+        <div class="prev2"><i id="left2" class="fa-solid fa-angle-left"></i></div>
+        <div class="next2"><i id="right2"class="fa-solid fa-chevron-right"></i></div>
+      </div>
+    </div>
+
+    <div class="section3" id="section3">
+      <div id="slideWrap3">
+        <p id="slide3">
+          <!-- 수직방향 세번째 슬라이드 -->
+          <img src="./src/images/main_slide/mainSlide_collection_3.jpg" alt="" />
+          <img src="./src/images/main_slide/mainSlide_kids_3.png" alt="" />
+          <img src="./src/images/main_slide/mainSlide_women_4.jpeg" alt="" />
+        </p>
+        <div class="prev3"><i id="left3" class="fa-solid fa-angle-left"></i></div>
+        <div class="next3"><i id="right3"class="fa-solid fa-chevron-right"></i></div>
+      </div>
+    </div>
+    <!-- 푸터영역 -->
+    <div class="section4" id="section4">
+      <footer>
+        <ul id="footermainMenu">
+          <li><a href="#"><h3>PRODUCTS</h3></a>     
+            <ul class="footersubMenu">
+              <li><a href="#">Man</a></li> 
+              <li><a href="#">Women</a></li> 
+              <li><a href="#">Kids</a></li> 
+              <li><a href="#">Codi</a></li> 
+            </ul>
+          </li> 
+          <li><a href="#"><h3>COMPANY INFO</h3></a>     
+            <ul class="footersubMenu">
+              <li><a href="#">회사소개</a></li> 
+              <li><a href="#">채용정보</a></li> 
+              <li><a href="#">SAZA 앱</a></li> 
+              <li><a href="#">SAZA 블로그</a></li> 
+            </ul>
+          </li> 
+          <li><a href="#"><h3>SUPPORT</h3></a>     
+            <ul class="footersubMenu">
+              <li><a href="#">고객센터</a></li> 
+              <li><a href="#">FAQ</a></li> 
+              <li><a href="#">주문/조회</a></li> 
+              <li><a href="#">이용약관</a></li> 
+            </ul>
+          </li> 
+          <li><a href="#"><h3>FOLLOW US</h3></a>     
+            <ul class="footersubMenu">
+              <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li> 
+              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li> 
+              <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li> 
+              <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li> 
+            </ul>
+          </li> 
+        </ul>
+        <p id="lable">ⓒ SAZA Korea, LLC. All Rights Reserved</p>
+      </footer>
+    </div>
+  </body>
+</html>
+
+          
+          
+        

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAZA</title>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.js"
+      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./src/css/itemSpec.css" />
+    <link rel="stylesheet" href="./src/css/base.css" />
+  </head>
+
+  <body>
+    <header>
+      <!--헤더_경서씨-->
+      헤더영역
+    </header>
+
+    <!-- 상세보기_페이씨-->
+    <div id="itemSpecArea">
+      <div class="itemSpec">
+        <div class="imgArea">
+          <img src="" alt="" id="mainImage" />
+          <img
+            src=" "
+            alt=""
+            class="thumbnail"
+            id="thumbnail1"
+          />
+          <img
+            src=" "
+            alt=""
+            class="thumbnail"
+            id="thumbnail2"
+          />
+          <img
+            src=""
+            alt=""
+            class="thumbnail"
+            id="thumbnail3"
+          />
+        </div>
+
+        <div class="itemDetail">
+          <div class="itemTitleArea">
+            <h1 id="itemTitle">상품명</h1>
+          </div>
+          <div class="itemPriceArea">
+            <h3 id="itemPrice">상품가격</h3>
+          </div>
+          <div class="sizeBtnArea">
+            <button class="sizeBtn" id="sizeSmall">S</button>
+            <button class="sizeBtn" id="sizeMedium">M</button>
+            <button class="sizeBtn" id="sizeLarge">L</button>
+          </div>
+          <div class="quantityArea">
+            <button class="deduct">-</button>
+            <span id="quantity">1</span>
+            <button class="add">+</button>
+          </div>
+          <div class="specPage_totalPriceArea">
+            <h3 class="specPage_totalTxt">결제금액</h3>
+            <h3 id="specPage_totalPrice">10000</h3>
+          </div>
+
+          <button class="addToCart">Add to Cart</button>
+          <button class="viewCart">View Cart</button> <br />
+        </div>
+      </div>
+    </div>
+
+    <!-- <script defer src="/src/js/fetch.js"></script> -->
+    <!-- <script src="/src/js/shoppingmall.js"></script> -->
+    <script defer src="src/js/itemSpec.js"></script>
+  </body>
+</html>
